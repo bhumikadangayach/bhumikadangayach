@@ -5,7 +5,7 @@
 **Full-Stack & AI/ML Engineer** · BIT Mesra '27  
 Building production-grade systems — from RAG pipelines to scalable backends 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhumikadangayach)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumika-dangayach-9a9a87284/)
 [![Email](https://img.shields.io/badge/Email-dangayach.bhumika18@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dangayach.bhumika18@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-bhumikadangayach-181717?style=flat&logo=github&logoColor=white)](https://github.com/bhumikadangayach)
 
