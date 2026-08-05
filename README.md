@@ -105,7 +105,6 @@ Building production-grade systems — from RAG pipelines to scalable backends �
 ## 🌱 Open Source Journey
 
 - 🎯 Actively exploring **CNCF projects** (Meshery, Prometheus, Envoy) for first contributions
-- 🔍 Looking for `good first issue` in **Go / Python / TypeScript** projects
 - 📚 Working towards **LFX Mentorship 2026** application
 
 ---
