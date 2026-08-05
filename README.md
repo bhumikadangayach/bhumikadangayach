@@ -71,11 +71,6 @@ Building production-grade systems — from RAG pipelines to scalable backends �
 > 40% API response time reduction · atomic transactions · JWT + RBAC + rate limiting  
 > `Node.js` `Express.js` `PostgreSQL` `Redis` `Razorpay` `Railway`
 
-### 💰 AI-Driven Smart Finance Assistant
-> Fine-tuned NLP classifier to 88% accuracy (14 pts above LLM baseline)  
-> 92% anomaly detection precision · avg 18% user expense reduction  
-> `FastAPI` `Python` `Prophet` `Docker` `NLP`
-
 ---
 
 ## 💼 Work Experience
