@@ -15,9 +15,9 @@
 - 💼 AI Agent Developer Intern @ Breakout Remote — owned recommendation & escalation microservices end-to-end for a multi-location conversational AI system
 - 💼 Former SWE Intern @ NukeLancers — built JWT + RBAC middleware, optimized PostgreSQL + Redis, shipped 3 production features
 - 🔧 Active contributor to **Kmesh** (CNCF service mesh project) — open issues and pull requests on AI-native tooling
-- 🌱 6 merged pull requests to CNCF's **OpenTelemetry** and **LiteLLM** (53K+ GitHub stars)
+- 🌱 6 merged pull requests across CNCF's **OpenTelemetry GenAI** (4) and **LiteLLM** (2)
 - 🏆 Top 2% among 480,000+ participants — Flipkart GRID 6.0 (Round 2)
-- 🎯 Applying to **LFX Mentorship** to deepen Go, Kubernetes, and service mesh expertise while continuing to contribute to Kmesh
+- 🎯 Deepening Go, Kubernetes, and service mesh expertise through continued contributions to Kmesh
 
 ---
 
@@ -42,7 +42,7 @@
 ### 🌱 Open Source Contributions
 
 **Kmesh** (CNCF service mesh project)
-Active contributor — open issues and pull requests toward AI-native service mesh tooling.
+Active contributor with open issues and pull requests on the daemon and CLI, including fixing a race condition where `kmeshctl authz status` exited 0 even when every pod query failed, and resolving a startup crash caused by a cgroup2/bpf-fs path check not accounting for mount propagation delay.
 
 **OpenTelemetry GenAI SDK** (CNCF)
 4 merged pull requests, including adding ChatAnthropic support to LangChain instrumentation and fixing a typing bug in span/metric attributes.
@@ -100,4 +100,4 @@ Scalable e-commerce marketplace backend — 1,000+ SKUs, real-time inventory, Ra
 
 ---
 
-<p align="center"><i>"Build things. Break things. Learn fast."</i></p>
+<p align="center"><i>"Debugging the mesh, one packet at a time."</i></p>
